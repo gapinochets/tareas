@@ -1,0 +1,21 @@
+
+*{
+    margin: 0 px;
+    padding: 0 px;
+    background-color:black;
+}
+body{
+    margin: 100px;
+    padding: 50px;
+    border: 1px dashed;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.logo{
+    text-align: center;
+}
